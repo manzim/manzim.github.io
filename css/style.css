@@ -1,0 +1,47 @@
+body{
+	background-color: grey;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
+
+.font-div{
+	width: 30%;
+}
+/*responsive*/
+@media only screen and (min-width: 1198px){
+	.font-div{
+		padding: 42px 0px !important;
+	}
+}
+
+.fa{
+	font-size: 40px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
+}
+
+.fa-facebook{
+	background: blue;
+	color: white;
+}
+
+.fa-github{
+	background: black;
+	color: white;
+}
+
+.fa-linkedin{
+	background: blue;
+	color: white;
+}
+
+
+
+
+
+
+
